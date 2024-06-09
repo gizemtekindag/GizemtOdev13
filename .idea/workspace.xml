@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c456b6ab-7d69-41ee-b1f1-4fb5bd2ecd0b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MuhasebeDep/MaasHesabi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MuhasebeDep/MaasHesabi2.java" afterDir="false" />
+    <list default="true" id="c456b6ab-7d69-41ee-b1f1-4fb5bd2ecd0b" name="Changes" comment="feat: MaasHesabi">
+      <change afterPath="$PROJECT_DIR$/src/main/java/MuhasebeDep/Departmant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MuhasebeDep/Employee.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/MuhasebeDep/MaasHesabi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MuhasebeDep/MaasHesabi.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,39 +25,39 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "gizemtekindag"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;gizemtekindag&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/gizemtekindag/GizemtOdev5.git",
-    "accountId": "88bb256e-a8ac-4984-aa59-ff8280e71c23"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/gizemtekindag/GizemtOdev5.git&quot;,
+    &quot;accountId&quot;: &quot;88bb256e-a8ac-4984-aa59-ff8280e71c23&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2hTGQIY4wHH6DXkF7bO6GNXHLyl" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.MaasHesabi.executor": "Run",
-    "Application.MaasHesabi2.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "/Users/gizemtekindag/Documents/Test Otomasyon Eğitimi/Ödevler/GizemtOdev5/src/main/java/org/example/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.MaasHesabi.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaasHesabi2.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/gizemtekindag/Documents/Test Otomasyon Eğitimi/Ödevler/GizemtOdev5/src/main/java/org/example/Main.java&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.MaasHesabi2">
+}</component>
+  <component name="RunManager">
     <configuration name="MaasHesabi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MuhasebeDep.MaasHesabi" />
       <module name="GizemtOdev5" />
@@ -72,8 +71,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaasHesabi2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MuhasebeDep.MaasHesabi2" />
+    <configuration name="MaasHesabi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MuhasebeDep.MaasHesabi" />
       <module name="GizemtOdev5" />
       <extension name="coverage">
         <pattern>
@@ -87,7 +86,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MaasHesabi2" />
         <item itemvalue="Application.MaasHesabi" />
       </list>
     </recent_temporary>
@@ -101,7 +99,20 @@
       <option name="presentableId" value="Default" />
       <updated>1717610635370</updated>
     </task>
+    <task id="LOCAL-00001" summary="feat: MaasHesabi">
+      <option name="closed" value="true" />
+      <created>1717615551255</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717615551255</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: MaasHesabi" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: MaasHesabi" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -110,15 +121,6 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
           <line>13</line>
           <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/MuhasebeDep/MaasHesabi2.java</url>
-          <line>8</line>
-          <properties class="MuhasebeDep.MaasHesabi2" method="hesaplama2">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
