@@ -4,7 +4,7 @@ public class MaasHesabi {
     public static void main(String[] args) {
 
         Employee gizem = new Employee();
-        gizem.calistigiGun=25;
+        gizem.calistigiGun=28;
         gizem.name="Gizem;";
         
         hesaplama(gizem);
